@@ -1,0 +1,4 @@
+dataset/
+test_chars/
+result.hdf5
+.ipynb_checkpoints/
